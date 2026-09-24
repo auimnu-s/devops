@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+minggu-01/app-sentra/buat-log.sh
+minggu-01/app-sentra/sysreport.sh
+minggu-01/app-sentra/lib/
+minggu-01/app-sentra/setup.sh.minggu1
+
+minggu-02/app.log
+minggu-02/ringkasan-log.txt
+minggu-02/kredensial-latihan.txt
